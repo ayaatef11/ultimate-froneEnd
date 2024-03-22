@@ -1,0 +1,3 @@
+#ignore files that aren't important as the repo take at most 100 filrs
+#put the path of files or folders you want to ignore
+node_modules
